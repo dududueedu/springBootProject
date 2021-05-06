@@ -11,6 +11,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 //mapeament
+
 @Entity
 @Table(name = "tb_sellers")
 public class Seller {
