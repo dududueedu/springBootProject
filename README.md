@@ -1,6 +1,4 @@
 ## Sobre o projeto
-dashboard system developed in react and spring.
-
 DSVendas é uma aplicação WEB usando Java com Spring Boot no Back-End e TypeScript com ReactJS no Front-End.
 
 Link de acesso: https://dudu-dev-dashboard.netlify.app/
