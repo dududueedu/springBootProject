@@ -1,5 +1,5 @@
 ## Sobre o projeto
-DSVendas é uma aplicação WEB usando Java com Spring Boot no Back-End e TypeScript com ReactJS no Front-End.
+DSVendas é uma aplicação WEB usando Java com Spring Boot no Back-End e TypeScript com ReactJS no Front-End. Desenvolvido na 3ª edição da **Semana DevSuperior**, organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 Link de acesso: https://dudu-dev-dashboard.netlify.app/
 
