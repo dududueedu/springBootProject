@@ -58,7 +58,7 @@ que também apresenta um dashboard com belos gráficos com base nestes dados.
 
 ```bash
 # clonar repositório
-git clone https://github.com/rendleyarnou/projeto-sds3.git
+git clone https://github.com/dududueedu/springBootProject.git
 ```
 
 ### Back-End
